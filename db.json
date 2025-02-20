@@ -6,6 +6,13 @@
     "code": "https://github.com/LuscasV/ContactList",
     "deploy": "https://contact-list-tau-opal.vercel.app/",
     "features": "adicionar, editar, remover e buscar contatos.",
+    "description": "O objetivo foi criar uma aplicação prática e de fácil uso, integrando boas práticas de desenvolvimento e componentes reutilizáveis. Além disso, implementei validação de dados para garantir a consistência das informações inseridas."},
+    { "id": 2,
+    "image": "https://i.ibb.co/VxDpkY2/imagem-2025-01-03-094402020.png",
+    "title": "Lista de Contatos",
+    "code": "https://github.com/LuscasV/ContactList",
+    "deploy": "https://contact-list-tau-opal.vercel.app/",
+    "features": "adicionar, editar, remover e buscar contatos.",
     "description": "O objetivo foi criar uma aplicação prática e de fácil uso, integrando boas práticas de desenvolvimento e componentes reutilizáveis. Além disso, implementei validação de dados para garantir a consistência das informações inseridas."}
   ]
 }
