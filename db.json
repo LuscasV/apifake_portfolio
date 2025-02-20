@@ -15,8 +15,8 @@
     "title": "Lista de tarefas Personalizada",
     "code": "https://github.com/LuscasV/TaskList_Ebac",
     "deploy": "https://task-list-ebac.vercel.app/",
-    "features": 'adicionar, excluir e editar tarefas, filtrar a pesquisa pelo status ou prioridade da tarefa, marcar tarefa como concluída.',
-    "description": 'O objetivo foi criar uma ferramenta prática e eficiente para gerenciar tarefas diárias. A ideia é facilitar a organização do dia a dia, permitindo que os usuários possam acompanhar suas atividades de maneira simples e rápida, priorizando o que é mais importante e mantendo o foco no que precisa ser feito.'
+    "features": "adicionar, excluir e editar tarefas, filtrar a pesquisa pelo status ou prioridade da tarefa, marcar tarefa como concluída.",
+    "description": "O objetivo foi criar uma ferramenta prática e eficiente para gerenciar tarefas diárias. A ideia é facilitar a organização do dia a dia, permitindo que os usuários possam acompanhar suas atividades de maneira simples e rápida, priorizando o que é mais importante e mantendo o foco no que precisa ser feito."
   },
   {
     "id": 3,
